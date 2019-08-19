@@ -18,6 +18,10 @@ _global_script_class_icons={
 config/name="ThemeTest"
 config/icon="res://icon.png"
 
+[editor_plugins]
+
+enabled=PoolStringArray( "gut", "theme_maker" )
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
