@@ -1,0 +1,13 @@
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+addons/godot-git-control.funabab/
+
+# Mono-specific ignores
+.mono/
+
+# System/tool-specific ignores
+.directory
+*~
